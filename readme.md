@@ -4,13 +4,9 @@ A new generation get simpe cms axcora tech for develope website project powerful
 
 No need a database for installation , make your website very fast and SEO friendly.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%281%29%20-%20Copy.png/max/max/1)
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms-magazineblog/screenshots/Screenshot_2020-12-08%20Welcome%20to%20Get%20Axcora%20CMS%20-%20Copy.png/max/max/1)
 
-A standard design can be customise with you needed
-
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29%20-%20Copy.png/max/max/1)
-
-New generation with get axcora cms modern web apps.
+A standard design can be customise with you needed , New generation with get axcora cms modern web apps.
 
 ![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
 
