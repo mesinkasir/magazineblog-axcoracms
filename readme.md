@@ -47,6 +47,10 @@ Features :
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
+Live test speed and demo website using company profile themes
+https://axcora.my.id
+
+
 more info https://axcora.com/getaxcoracms
 
 
