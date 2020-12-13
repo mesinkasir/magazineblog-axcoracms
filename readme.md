@@ -24,6 +24,12 @@ Create article post very simple and easy
 
 Back end setting
 
+
+![new modern website cms](test.png)
+
+Test Speed using [company profile themes](https://github.com/mesinkasir/companyprofilwebsite-getaxcoracms)
+
+
  -----------------------------------------------------------------
 ### how to install
 
