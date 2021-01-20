@@ -57,10 +57,10 @@ Live test speed and demo website using company profile themes
 https://axcora.my.id
 
 
-more info https://axcora.com/getaxcoracms
+more info (here)[https://axcora.com/getaxcoracms]
 
 
-present by https://axcora.com
+present by [axcora](https://axcora.com)
 
 
 Hapy codding !!
