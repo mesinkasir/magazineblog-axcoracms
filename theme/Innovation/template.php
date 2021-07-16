@@ -20,4 +20,4 @@ include('header.inc.php');
 				<?php get_page_content(); ?>
 			</div>
 </div></div>
-<?php include('footer.inc.php'); ?><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script><script src='https://bstp.sourceforge.io/gallerya.js'></script>
+<?php include('footer.inc.php'); ?><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script><script src='https://mesinkasir.github.io/larapos/pos/gallerya.js'></script>
