@@ -4,23 +4,28 @@ A new generation get simpe cms axcora tech for develope website project powerful
 
 No need a database for installation , make your website very fast and SEO friendly.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms-magazineblog/screenshots/Screenshot_2020-12-08%20Welcome%20to%20Get%20Axcora%20CMS%20-%20Copy.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/data/uploads/screenshot_2020-12-08-welcome-to-get-axcora-cms-copy.png)
 
 A standard design can be customise with you needed , New generation with get axcora cms modern web apps.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
+---------------------------
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
 
@@ -36,14 +41,14 @@ Test Speed using [company profile themes](https://github.com/mesinkasir/companyp
 CLOUDS / SHARED HOSTING
 
 Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
-After upload progress success, now you need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL.
-Your website is online now . for accsess backend you need visit yourwebsite/admin
+After upload progress success. Your website is online now . for first need to configure site with accsess on backend - visit yourwebsite/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite, and save.
 
 LOCALHOST
-Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change url `<SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL>` with your site URL project.
-Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
+
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder,  for first need to configure site with accsess on backend - visit localhost/projectweb/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite example localhost/projectweb/admin, and save.
 
 By default use username : axcora and password : axcoracms
+
 
 Features :
 + Page for create new post article content you can edit and delete too.
